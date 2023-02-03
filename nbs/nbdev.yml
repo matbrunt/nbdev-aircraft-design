@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-aircraft-design"
+  site-url: "https://matbrunt.github.io/nbdev-aircraft-design"
+  description: "nbdev implementation of GA aircraft design"
+  repo-branch: main
+  repo-url: "https://github.com/matbrunt/nbdev-aircraft-design"
